@@ -20,7 +20,7 @@ Principais Ferramentas:
 
 <br>
 
-Onde pode me encontrar:
+Onde podem me encontrar:
 <div style="display: inline_block">
   </a>
   <a href="https://www.linkedin.com/in/pedro-felix-oliveira/" target="_blank">
