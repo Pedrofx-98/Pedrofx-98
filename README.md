@@ -29,9 +29,8 @@ Onde podem me encontrar:
   
 </div>
 
-## 
-
-## Portfólio e Principais Projetos
+##
+# Portfólio e Principais Projetos
 ### Contoso Sales Dashboard
 <img align="right" width="500"  src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
