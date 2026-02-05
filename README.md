@@ -42,7 +42,7 @@ Principais problemas relatados pelo requisitante:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiM2I2YTlmNGItZTgzZS00MDEyLWFlOWYtZDk2ZmY5OTQyNDkzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/Pedrofx-98/MaxOilSolutions/edit/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
 
