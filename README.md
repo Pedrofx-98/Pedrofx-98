@@ -16,6 +16,9 @@ Principais Ferramentas:
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/Pedrofx-98/MaxOilSolutions/blob/main/Figures/%C3%8Dcone_Excel.png">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/Pedrofx-98/MaxOilSolutions/blob/main/Figures/%C3%ADcone_RStudio.png">
+</div>
 </div>
 
 <br>
