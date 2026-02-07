@@ -48,16 +48,3 @@ Principais problemas relatados pelo requisitante:
 <a href="https://github.com/Pedrofx-98/MaxOilSolutions/tree/main#" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
-
-### Análise de Clientes AdventureWorks
-<img align="left" width="500" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
-Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
-Principais desafios: <br>
-- Desenvolver consultas utilizando linguagem SQL.<br>
-- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.<br>
-- Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
-<br>
-<br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
