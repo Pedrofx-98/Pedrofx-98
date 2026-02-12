@@ -52,10 +52,10 @@ Principais problemas relatados pelo requisitante:
 ### Velocity Cycles Group Dashboard
 <img align="left" width="500"  src="https://github.com/Pedrofx-98/Velocity-Cycles-Group/blob/main/Figures/Dashboard.png">
 Projeto desenvolvido com o objetivo de analisar e compreender o comportamento dos clientes da empresa Velocity Cycles Group, utilizando SQL para consulta, extração e validação dos dados no banco AdventureWorksDW2022 e Power BI para construção de visualizações dinâmicas. A análise concentrou-se na evolução da base de clientes, na entrada e retenção, e na contribuição de cada segmento nas vendas de bicicletas, acessórios e roupas esportivas.<br>
-Principais desafios e demandas apresentadas pelo gestor:<br>
--Desenvolver consultas utilizando linguagem SQL.<br>
--Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks2022.<br>
--Entender onde estão, quanto e o que compram, se houve evolução na base de novos clientes e onde está o maior impacto desta evolução.<br>
+Principais desafios e demandas apresentadas pelo gestor:
+-Desenvolver consultas utilizando linguagem SQL.
+-Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks2022.
+-Entender onde estão, quanto e o que compram, se houve evolução na base de novos clientes e onde está o maior impacto desta evolução.
 -Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
   <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYmNkMTgxMzctMDk2MC00MjRjLWE1ZDctZDliMDUyZGEyYTU0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.<br>
