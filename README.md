@@ -60,7 +60,6 @@ Principais desafios e demandas apresentadas pelo gestor: <br>
 - Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks2022.<br>
 - Entender onde estão, quanto e o que compram, se houve evolução na base de novos clientes e onde está o maior impacto desta evolução.
 - Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYmNkMTgxMzctMDk2MC00MjRjLWE1ZDctZDliMDUyZGEyYTU0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
-<br>
+  <br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYmNkMTgxMzctMDk2MC00MjRjLWE1ZDctZDliMDUyZGEyYTU0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.<br>
 <a href="https://github.com/Pedrofx-98/Velocity-Cycles-Group" target="_blank">Clique aqui</a> e acesse o repositório no Github.
