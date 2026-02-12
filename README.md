@@ -50,7 +50,7 @@ Principais problemas relatados pelo requisitante:
 <br><br>
 
 ### Velocity Cycles Group Dashboard
-<img align="right" width="500"  src="https://github.com/Pedrofx-98/MaxOilSolutions/blob/main/Figures/Dashboard_MaxOil_Vendas.png">
+<img align="right" width="500"  src="https://github.com/Pedrofx-98/Velocity-Cycles-Group/blob/main/Figures/Dashboard.png">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas de aditivos e lubrificantes da empresa MaxOil Solutions, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
