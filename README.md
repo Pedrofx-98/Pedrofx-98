@@ -25,9 +25,13 @@ Principais Ferramentas:
 
 Onde podem me encontrar:
 <div style="display: inline_block">
-  </a>
+  
   <a href="https://www.linkedin.com/in/pedro-felix-oliveira/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+    <img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1MToMs38YGSRdlwoaNMFZrw-RPGAX_nfd/view?usp=share_link" target="_blank">
+    <img align="center" alt="Currículo" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png">
   </a>
   
 </div>
